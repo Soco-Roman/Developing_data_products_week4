@@ -1,14 +1,3 @@
----
-title: "Developing Data Products- Week 4. Course project"
-author: "Socorro Román Moro"
-date: "October 2021"
-output: slidy_presentation
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Introduction
 
 This shiny app shows a map regarding the location of the concentration of COVID-19 cases in Mexico.
@@ -44,5 +33,5 @@ The data displayed in the map concentrates the information per each municipality
 
 ## Sample
 
-![](img/imagen.png)
+(img/imagen.png)
 
