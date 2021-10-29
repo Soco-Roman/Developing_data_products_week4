@@ -33,6 +33,6 @@ The data displayed in the map concentrates the information per each municipality
 
 ## Sample
 
-![imagen](img/imagen.png) 
+![imagen](img/imagen.PNG) 
 
 
